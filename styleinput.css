@@ -1,0 +1,17 @@
+body{
+    background-image:  url(css/a.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.row{
+    margin-bottom: 11px;
+}
+.jumbotron{
+    padding: 40px;
+    background:transparent;
+    color: white;
+}
+nav{
+	font-family: sans-serif;
+}

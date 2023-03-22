@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(css/a.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.row{
+    margin-bottom: 11px;
+}
+.container{
+    padding: 40px;
+    background:transparent;
+    color: white;
+}
+

@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(css/a.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+h4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    font-size: medium;
+    top: 18%;
+    left: 43%;
+    transform: translate(-50%,-50);
+}
+thead{
+    /* color: white; */
+}
+.container{
+
+    background: #fff;
+}
+table{
+    margin-top: 10%;
+}
+.button{
+margin-left: 5%;
+float: right;  
+margin-top: 5%; 
+text-decoration: none;
+color: azure;
+padding: 10px 10px;
+border : 1px solid transparent;  
+transition: 0.6s ease;
+background-color:blue ;
+
+color:white;
+
+}
